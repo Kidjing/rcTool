@@ -1,0 +1,3 @@
+1.Zhang L, Wang C. RClassify: classifying race conditions in web applications via deterministic replay[C]//2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE). IEEE, 2017: 278-288.
+2.Adamsen C Q, Møller A, Alimadadi S, et al. Practical AJAX race detection for JavaScript web applications[C]//Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 2018: 38-48.
+3.https://lab.wallarm.com/race-condition-in-web-applications/
